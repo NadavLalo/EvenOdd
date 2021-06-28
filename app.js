@@ -43,3 +43,5 @@ const gameStart = () => {
       round++;
     }
   };
+
+  gameStart();
